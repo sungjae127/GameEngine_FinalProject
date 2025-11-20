@@ -1,0 +1,4407 @@
+fileFormatVersion: 2
+guid: 537ddd613acd4fd46b75b56963ced6d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3870541607752106652
+    second: castle_outside_0
+  - first:
+      213: 1654866658920375979
+    second: castle_outside_1
+  - first:
+      213: -2320876174936515625
+    second: castle_outside_2
+  - first:
+      213: 5146665774415463349
+    second: castle_outside_3
+  - first:
+      213: 4345215914722311914
+    second: castle_outside_4
+  - first:
+      213: -2649906264757372066
+    second: castle_outside_5
+  - first:
+      213: -384321367377677879
+    second: castle_outside_6
+  - first:
+      213: -7384281959855886462
+    second: castle_outside_7
+  - first:
+      213: 7764151759619686614
+    second: castle_outside_8
+  - first:
+      213: -6453590521119392604
+    second: castle_outside_9
+  - first:
+      213: -4389337805405037092
+    second: castle_outside_10
+  - first:
+      213: -6605649985525735650
+    second: castle_outside_11
+  - first:
+      213: 812484585267569778
+    second: castle_outside_12
+  - first:
+      213: -7744659798794835818
+    second: castle_outside_13
+  - first:
+      213: -4202466544367086558
+    second: castle_outside_14
+  - first:
+      213: 5659192503193901035
+    second: castle_outside_15
+  - first:
+      213: -8494589796256885253
+    second: castle_outside_16
+  - first:
+      213: -3322459782317223669
+    second: castle_outside_17
+  - first:
+      213: 7734526043016080645
+    second: castle_outside_18
+  - first:
+      213: 6473086960062693073
+    second: castle_outside_19
+  - first:
+      213: 6741792951286309473
+    second: castle_outside_20
+  - first:
+      213: -8229716691002726288
+    second: castle_outside_21
+  - first:
+      213: 7380785303273303107
+    second: castle_outside_22
+  - first:
+      213: -5292513134675735442
+    second: castle_outside_23
+  - first:
+      213: 378578671598447662
+    second: castle_outside_24
+  - first:
+      213: -2059768480923195077
+    second: castle_outside_25
+  - first:
+      213: 5584449715376911899
+    second: castle_outside_26
+  - first:
+      213: -3471549932348110067
+    second: castle_outside_27
+  - first:
+      213: -7389647002697411065
+    second: castle_outside_28
+  - first:
+      213: -6767077494734939440
+    second: castle_outside_29
+  - first:
+      213: -4445896458865142643
+    second: castle_outside_30
+  - first:
+      213: -521261762088221295
+    second: castle_outside_31
+  - first:
+      213: -3360976140070214547
+    second: castle_outside_32
+  - first:
+      213: -7367843654904288650
+    second: castle_outside_33
+  - first:
+      213: -2039730447917587819
+    second: castle_outside_34
+  - first:
+      213: -2346284516614906551
+    second: castle_outside_35
+  - first:
+      213: 4901369586641637941
+    second: castle_outside_36
+  - first:
+      213: 3242897049389365646
+    second: castle_outside_37
+  - first:
+      213: 8663348982961565035
+    second: castle_outside_38
+  - first:
+      213: 2956250227483331804
+    second: castle_outside_39
+  - first:
+      213: -8026179050959949870
+    second: castle_outside_40
+  - first:
+      213: 1666976132309624123
+    second: castle_outside_41
+  - first:
+      213: 3734242934565290741
+    second: castle_outside_42
+  - first:
+      213: 6221779279459304188
+    second: castle_outside_43
+  - first:
+      213: -3165832450854427145
+    second: castle_outside_44
+  - first:
+      213: -4552364083868126721
+    second: castle_outside_45
+  - first:
+      213: 5679455421745222869
+    second: castle_outside_46
+  - first:
+      213: 3500295390510091212
+    second: castle_outside_47
+  - first:
+      213: 6765191605622930133
+    second: castle_outside_48
+  - first:
+      213: -389422692293707730
+    second: castle_outside_49
+  - first:
+      213: -7804326720630336775
+    second: castle_outside_50
+  - first:
+      213: -50363381938222687
+    second: castle_outside_51
+  - first:
+      213: -3414697630355694794
+    second: castle_outside_52
+  - first:
+      213: -456041715261412710
+    second: castle_outside_53
+  - first:
+      213: -2429062535450399326
+    second: castle_outside_54
+  - first:
+      213: 2473733531876815394
+    second: castle_outside_55
+  - first:
+      213: -1412694275290320159
+    second: castle_outside_56
+  - first:
+      213: 9202315122173932054
+    second: castle_outside_57
+  - first:
+      213: -8389457047601137120
+    second: castle_outside_58
+  - first:
+      213: 8961121190973202629
+    second: castle_outside_59
+  - first:
+      213: -1332012102749613354
+    second: castle_outside_60
+  - first:
+      213: -5220096427364356929
+    second: castle_outside_61
+  - first:
+      213: 3351030172581186621
+    second: castle_outside_62
+  - first:
+      213: -6418859710132001142
+    second: castle_outside_63
+  - first:
+      213: -6716918864287758685
+    second: castle_outside_64
+  - first:
+      213: -6248111152868506702
+    second: castle_outside_65
+  - first:
+      213: -7287828179053988296
+    second: castle_outside_66
+  - first:
+      213: 3420982290842143406
+    second: castle_outside_67
+  - first:
+      213: 6418567181174800513
+    second: castle_outside_68
+  - first:
+      213: 4520725691684142692
+    second: castle_outside_69
+  - first:
+      213: -2412932033228619156
+    second: castle_outside_70
+  - first:
+      213: -9069808209199761182
+    second: castle_outside_71
+  - first:
+      213: -1376125129741066460
+    second: castle_outside_72
+  - first:
+      213: -3749216619772631343
+    second: castle_outside_73
+  - first:
+      213: 4901785036534533757
+    second: castle_outside_74
+  - first:
+      213: 3397906442177763738
+    second: castle_outside_75
+  - first:
+      213: -4727037572942607
+    second: castle_outside_76
+  - first:
+      213: 2871036127917593782
+    second: castle_outside_77
+  - first:
+      213: 2525297419731822087
+    second: castle_outside_78
+  - first:
+      213: 5448338458654996811
+    second: castle_outside_79
+  - first:
+      213: -1839939748697053537
+    second: castle_outside_80
+  - first:
+      213: -8438063093139728064
+    second: castle_outside_81
+  - first:
+      213: 7078446689939308896
+    second: castle_outside_82
+  - first:
+      213: -8939640762689829127
+    second: castle_outside_83
+  - first:
+      213: 857567898653670466
+    second: castle_outside_84
+  - first:
+      213: -5245585037596449138
+    second: castle_outside_85
+  - first:
+      213: -3930339405321436007
+    second: castle_outside_86
+  - first:
+      213: 149053713693182763
+    second: castle_outside_87
+  - first:
+      213: -7532763841114264907
+    second: castle_outside_88
+  - first:
+      213: 4987704230983348598
+    second: castle_outside_89
+  - first:
+      213: -9037542338721930479
+    second: castle_outside_90
+  - first:
+      213: 5679388244325280228
+    second: castle_outside_91
+  - first:
+      213: 8632115371426845575
+    second: castle_outside_92
+  - first:
+      213: 1744753086336793434
+    second: castle_outside_93
+  - first:
+      213: -3394781708286105422
+    second: castle_outside_94
+  - first:
+      213: -3143939965754770238
+    second: castle_outside_95
+  - first:
+      213: 8055315685766443432
+    second: castle_outside_96
+  - first:
+      213: 391798796742507868
+    second: castle_outside_97
+  - first:
+      213: -8416760879915287027
+    second: castle_outside_98
+  - first:
+      213: -3581735780783981396
+    second: castle_outside_99
+  - first:
+      213: -277441977196146649
+    second: castle_outside_100
+  - first:
+      213: 7492319057522909249
+    second: castle_outside_101
+  - first:
+      213: 2922698344340538771
+    second: castle_outside_102
+  - first:
+      213: 3524415116185226316
+    second: castle_outside_103
+  - first:
+      213: -2554847139344797222
+    second: castle_outside_104
+  - first:
+      213: 547662344310492018
+    second: castle_outside_105
+  - first:
+      213: -8705865913764721923
+    second: castle_outside_106
+  - first:
+      213: 7303339935468327179
+    second: castle_outside_107
+  - first:
+      213: 5889825793662759964
+    second: castle_outside_108
+  - first:
+      213: -8907137695577756556
+    second: castle_outside_109
+  - first:
+      213: 7869281779280349176
+    second: castle_outside_110
+  - first:
+      213: 2170788919691874195
+    second: castle_outside_111
+  - first:
+      213: -2128673518125398862
+    second: castle_outside_112
+  - first:
+      213: 8214706519711244239
+    second: castle_outside_113
+  - first:
+      213: -6993389182531606610
+    second: castle_outside_114
+  - first:
+      213: 8303023654697554337
+    second: castle_outside_115
+  - first:
+      213: -3872309436802616550
+    second: castle_outside_116
+  - first:
+      213: -3346640827953555499
+    second: castle_outside_117
+  - first:
+      213: 279156682485250078
+    second: castle_outside_118
+  - first:
+      213: 1788946484433862889
+    second: castle_outside_119
+  - first:
+      213: -3823384931086232281
+    second: castle_outside_120
+  - first:
+      213: 1971632911066673128
+    second: castle_outside_121
+  - first:
+      213: 6084546290706389105
+    second: castle_outside_122
+  - first:
+      213: -6693335473299370896
+    second: castle_outside_123
+  - first:
+      213: 6838341418401625534
+    second: castle_outside_124
+  - first:
+      213: 6183554462897062061
+    second: castle_outside_125
+  - first:
+      213: -3691311761419711250
+    second: castle_outside_126
+  - first:
+      213: 328006398795739990
+    second: castle_outside_127
+  - first:
+      213: 5409351469316849077
+    second: castle_outside_128
+  - first:
+      213: 7770988276129527070
+    second: castle_outside_129
+  - first:
+      213: -3059965753442726571
+    second: castle_outside_130
+  - first:
+      213: -6807137268614591933
+    second: castle_outside_131
+  - first:
+      213: 8467302101410827350
+    second: castle_outside_132
+  - first:
+      213: 5988438940447592244
+    second: castle_outside_133
+  - first:
+      213: -4690104891094574039
+    second: castle_outside_134
+  - first:
+      213: 1616709956965044231
+    second: castle_outside_135
+  - first:
+      213: 5328276227493339464
+    second: castle_outside_136
+  - first:
+      213: 8422755967723514747
+    second: castle_outside_137
+  - first:
+      213: 1537977464059041236
+    second: castle_outside_138
+  - first:
+      213: -243880957182107334
+    second: castle_outside_139
+  - first:
+      213: -2414348608201741280
+    second: castle_outside_140
+  - first:
+      213: 3960923816519185110
+    second: castle_outside_141
+  - first:
+      213: 8554932722035373068
+    second: castle_outside_142
+  - first:
+      213: -9017970179123310191
+    second: castle_outside_143
+  - first:
+      213: -7994967457685114861
+    second: castle_outside_144
+  - first:
+      213: 5160234011040348423
+    second: castle_outside_145
+  - first:
+      213: 5913305890940071101
+    second: castle_outside_146
+  - first:
+      213: -3334534205176322142
+    second: castle_outside_147
+  - first:
+      213: -7137840340475355717
+    second: castle_outside_148
+  - first:
+      213: 8714673283570527504
+    second: castle_outside_149
+  - first:
+      213: -5907522116131154410
+    second: castle_outside_150
+  - first:
+      213: 910012424519750330
+    second: castle_outside_151
+  - first:
+      213: -7595205642725185985
+    second: castle_outside_152
+  - first:
+      213: -2996604899431835856
+    second: castle_outside_153
+  - first:
+      213: -531953966439262076
+    second: castle_outside_154
+  - first:
+      213: -5157074629305952514
+    second: castle_outside_155
+  - first:
+      213: -3936309878194697709
+    second: castle_outside_156
+  - first:
+      213: -8435669395209029457
+    second: castle_outside_157
+  - first:
+      213: -6379021797986866749
+    second: castle_outside_158
+  - first:
+      213: 5105390835459127524
+    second: castle_outside_159
+  - first:
+      213: 5883565529273085991
+    second: castle_outside_160
+  - first:
+      213: 7108177088663292793
+    second: castle_outside_161
+  - first:
+      213: -4848238923789046959
+    second: castle_outside_162
+  - first:
+      213: -5363756339672897935
+    second: castle_outside_163
+  - first:
+      213: 6193736378526796251
+    second: castle_outside_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: castle_outside_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 161
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df09d2ae2194ac0800000000000000
+      internalID: -3870541607752106652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 817
+        width: 322
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6269b557447f610800000000000000
+      internalID: 1654866658920375979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 824
+        width: 130
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbdd395a679acfd0800000000000000
+      internalID: -2320876174936515625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 920
+        width: 130
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3c1bde041ac6740800000000000000
+      internalID: 5146665774415463349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 895
+        width: 66
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb56d3ade4d4c30800000000000000
+      internalID: 4345215914722311914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 888
+        width: 66
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bfd01ca44a93bd0800000000000000
+      internalID: -2649906264757372066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1008
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c17cd9a0cd9aaaf0800000000000000
+      internalID: -384321367377677879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_7
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1008
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fe67d5ea2c58990800000000000000
+      internalID: -7384281959855886462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_8
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 991
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d00b5e93eecfbb60800000000000000
+      internalID: 7764151759619686614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_9
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 991
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb9d61d9d3076a0800000000000000
+      internalID: -6453590521119392604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_10
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 991
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd3ad8580f513c0800000000000000
+      internalID: -4389337805405037092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_11
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 991
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f9c2e16540454a0800000000000000
+      internalID: -6605649985525735650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_12
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 991
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274aa52fc66864b00800000000000000
+      internalID: 812484585267569778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 991
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698e59a22f0758490800000000000000
+      internalID: -7744659798794835818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_14
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1023
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224598a81f6dda5c0800000000000000
+      internalID: -4202466544367086558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1023
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be71d64199d798e40800000000000000
+      internalID: 5659192503193901035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_16
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1029
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5537926972d1a80800000000000000
+      internalID: -8494589796256885253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_17
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 959
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d57e5e6044e1d0800000000000000
+      internalID: -3322459782317223669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_18
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 959
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d2bf3f47e865b60800000000000000
+      internalID: 7734526043016080645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_19
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 941
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deffb65b4605d950800000000000000
+      internalID: 6473086960062693073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_20
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 941
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16227aa38f8af8d50800000000000000
+      internalID: 6741792951286309473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_21
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 941
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078edaeb54c2acd80800000000000000
+      internalID: -8229716691002726288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_22
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 941
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6705d021dd6660800000000000000
+      internalID: 7380785303273303107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_23
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 941
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c409e48573d86b0800000000000000
+      internalID: -5292513134675735442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_24
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 941
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c2a28cb4bf04500800000000000000
+      internalID: 378578671598447662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_25
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 975
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e60fca7b3a63e0800000000000000
+      internalID: -2059768480923195077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_26
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 975
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16721fad63ff7d40800000000000000
+      internalID: 5584449715376911899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_27
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 980
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0c56cab392dfc0800000000000000
+      internalID: -3471549932348110067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_28
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 932
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d0bcf333b27990800000000000000
+      internalID: -7389647002697411065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_29
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 932
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da98ce3fd28612a0800000000000000
+      internalID: -6767077494734939440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_30
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 900
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d841d2dd9b00d42c0800000000000000
+      internalID: -4445896458865142643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_31
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 900
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ccbb603b14c8f0800000000000000
+      internalID: -521261762088221295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_32
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 901
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d642d80020a6b51d0800000000000000
+      internalID: -3360976140070214547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_33
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 902
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a60dc7b3920c990800000000000000
+      internalID: -7367843654904288650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_34
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 901
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592e25ee6fb61b3e0800000000000000
+      internalID: -2039730447917587819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_35
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 901
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d5b2dc9a2507fd0800000000000000
+      internalID: -2346284516614906551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_36
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 883
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5329da4aba9250440800000000000000
+      internalID: 4901369586641637941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_37
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 883
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89f3005fa5110d20800000000000000
+      internalID: 3242897049389365646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_38
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 863
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6aa6eff56a3870800000000000000
+      internalID: 8663348982961565035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_39
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 863
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdccf444be5b60920800000000000000
+      internalID: 2956250227483331804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_40
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 863
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa9db7da84d9090800000000000000
+      internalID: -8026179050959949870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_41
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 863
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ae57d5f9422710800000000000000
+      internalID: 1666976132309624123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_42
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 863
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2c6c30a22b2d330800000000000000
+      internalID: 3734242934565290741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_43
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 863
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ce0f4a43385650800000000000000
+      internalID: 6221779279459304188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_44
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 863
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ea64c824b014d0800000000000000
+      internalID: -3165832450854427145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_45
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 831
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff13bc43cf0c2d0c0800000000000000
+      internalID: -4552364083868126721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_46
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 831
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d45ac27d9a71de40800000000000000
+      internalID: 5679455421745222869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_47
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 831
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8a40cc1c839030800000000000000
+      internalID: 3500295390510091212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_48
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 531
+        width: 180
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dafb9afbe9c2ed50800000000000000
+      internalID: 6765191605622930133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_49
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 831
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e287b56ef1e789af0800000000000000
+      internalID: -389422692293707730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_50
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 816
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25db9523671b390800000000000000
+      internalID: -7804326720630336775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_51
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 816
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a982ed55c21d4ff0800000000000000
+      internalID: -50363381938222687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_52
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 799
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bd747d89e8c90d0800000000000000
+      internalID: -3414697630355694794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_53
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 799
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a6517e970dba9f0800000000000000
+      internalID: -456041715261412710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_54
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 799
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade4456e7c3a4ed0800000000000000
+      internalID: -2429062535450399326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_55
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 799
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2227d747a87745220800000000000000
+      internalID: 2473733531876815394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_56
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 799
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2b7199a0a156ce0800000000000000
+      internalID: -1412694275290320159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_57
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 799
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612f16009d035bf70800000000000000
+      internalID: 9202315122173932054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_58
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 837
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3653b349a29b80800000000000000
+      internalID: -8389457047601137120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 513
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ee21ce3c4c5c70800000000000000
+      internalID: 8961121190973202629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_60
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 479
+        width: 226
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d29613cc0eb38de0800000000000000
+      internalID: -1332012102749613354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_61
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 767
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc69a1e4fd7e87b0800000000000000
+      internalID: -5220096427364356929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_62
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 767
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c415cff20418e20800000000000000
+      internalID: 3351030172581186621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_63
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 749
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e38a2a11abe6a0800000000000000
+      internalID: -6418859710132001142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_64
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 749
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6020571e5b8c2a0800000000000000
+      internalID: -6716918864287758685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_65
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 749
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3cd18a2004a49a0800000000000000
+      internalID: -6248111152868506702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_66
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 749
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836b76b32ee6cda90800000000000000
+      internalID: -7287828179053988296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_67
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 749
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4c84b445c97f20800000000000000
+      internalID: 3420982290842143406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_68
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 749
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18087e028d4531950800000000000000
+      internalID: 6418567181174800513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_69
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 783
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb0d39018dcbe30800000000000000
+      internalID: 4520725691684142692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_70
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 783
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c624f3c991b838ed0800000000000000
+      internalID: -2412932033228619156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_71
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 788
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8f9b5dc71912280800000000000000
+      internalID: -9069808209199761182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_72
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 740
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9b4b4c7507ece0800000000000000
+      internalID: -1376125129741066460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_73
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 740
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62678395b18fbc0800000000000000
+      internalID: -3749216619772631343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_74
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 708
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e47fb1583a60440800000000000000
+      internalID: 4901785036534533757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_75
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 708
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99540208e9c72f20800000000000000
+      internalID: 3397906442177763738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_76
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 709
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ff9cc8c43feff0800000000000000
+      internalID: -4727037572942607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_77
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 710
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b457dd9528f7d720800000000000000
+      internalID: 2871036127917593782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_78
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 709
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7066357af98ab0320800000000000000
+      internalID: 2525297419731822087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_79
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 709
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49fa3c26f26c9b40800000000000000
+      internalID: 5448338458654996811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_80
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 691
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966ac60c883776e0800000000000000
+      internalID: -1839939748697053537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_81
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 691
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0499215d25af5ea80800000000000000
+      internalID: -8438063093139728064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_82
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614f53e2c1bb3260800000000000000
+      internalID: 7078446689939308896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_83
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64540371400f380800000000000000
+      internalID: -8939640762689829127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_84
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 671
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb702d571b6eb00800000000000000
+      internalID: 857567898653670466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_85
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 671
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86a5fa5330f337b0800000000000000
+      internalID: -5245585037596449138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_86
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 671
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994881b7221a479c0800000000000000
+      internalID: -3930339405321436007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_87
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 671
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b8229109b811200800000000000000
+      internalID: 149053713693182763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_88
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 671
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba2a71623f367790800000000000000
+      internalID: -7532763841114264907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_89
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 651
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671b9747292e73540800000000000000
+      internalID: 4987704230983348598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_90
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 646
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132de93023349280800000000000000
+      internalID: -9037542338721930479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_91
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 646
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a98c748d31de40800000000000000
+      internalID: 5679388244325280228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_92
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 646
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7831616023f6bc770800000000000000
+      internalID: 8632115371426845575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_93
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 646
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bfedb10bb963810800000000000000
+      internalID: 1744753086336793434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_94
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 646
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ec9bc50053e0d0800000000000000
+      internalID: -3394781708286105422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_95
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 562
+        width: 258
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc780a224b7e54d0800000000000000
+      internalID: -3143939965754770238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_96
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 523
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1bdb3ffea3acf60800000000000000
+      internalID: 8055315685766443432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_97
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 523
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d33470ee2ff6500800000000000000
+      internalID: 391798796742507868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_98
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 523
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ebe39d298a13b80800000000000000
+      internalID: -8416760879915287027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_99
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 523
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7013c84e1b4ec0800000000000000
+      internalID: -3581735780783981396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_100
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 479
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720117fddf3562cf0800000000000000
+      internalID: -277441977196146649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_101
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 351
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ea8f9c701af760800000000000000
+      internalID: 7492319057522909249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_102
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 479
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954a08b8a28f8820800000000000000
+      internalID: 2922698344340538771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_103
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 428
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ccc3100ec39e030800000000000000
+      internalID: 3524415116185226316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_104
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 428
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13eeb101c5b8cd0800000000000000
+      internalID: -2554847139344797222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_105
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 447
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b0c712000b99700800000000000000
+      internalID: 547662344310492018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_106
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 447
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa4fdbb31d8e2780800000000000000
+      internalID: -8705865913764721923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_107
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 393
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01938ff9fcaa5560800000000000000
+      internalID: 7303339935468327179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_108
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 393
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b33c8a5ddcb150800000000000000
+      internalID: 5889825793662759964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 243
+        width: 42
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ca899357d736480800000000000000
+      internalID: -8907137695577756556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 243
+        width: 42
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f78573c51e453d60800000000000000
+      internalID: 7869281779280349176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_111
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 243
+        width: 42
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f86986501302e10800000000000000
+      internalID: 2170788919691874195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_112
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 243
+        width: 42
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ca55a6be6572e0800000000000000
+      internalID: -2128673518125398862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_113
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 335
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf59796e00800270800000000000000
+      internalID: 8214706519711244239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_114
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 335
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7e42f479d72fe90800000000000000
+      internalID: -6993389182531606610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_115
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 351
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1d9ebc5044a3370800000000000000
+      internalID: 8303023654697554337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_116
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 366
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13bcf6651bc24ac0800000000000000
+      internalID: -3872309436802616550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_117
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 363
+        width: 22
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d75203f5e75e81d0800000000000000
+      internalID: -3346640827953555499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_118
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 363
+        width: 22
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18b5301683cfd300800000000000000
+      internalID: 279156682485250078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_119
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 363
+        width: 22
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e04dde695d93d810800000000000000
+      internalID: 1788946484433862889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_120
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 363
+        width: 22
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725160f89ab90fac0800000000000000
+      internalID: -3823384931086232281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_121
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 351
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef299bbfa5ac5b10800000000000000
+      internalID: 1971632911066673128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_122
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 351
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17899f43d96a07450800000000000000
+      internalID: 6084546290706389105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_123
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 351
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c487f89de7c13a0800000000000000
+      internalID: -6693335473299370896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_124
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 351
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb57ba8f94ba6ee50800000000000000
+      internalID: 6838341418401625534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_125
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 239
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c24aa50660d550800000000000000
+      internalID: 6183554462897062061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_126
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 239
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec4b59a283d5ccc0800000000000000
+      internalID: -3691311761419711250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_127
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 255
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537644f4105d8400800000000000000
+      internalID: 328006398795739990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_128
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 270
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd3ed95080e11b40800000000000000
+      internalID: 5409351469316849077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_129
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 55
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15fc682aa818db60800000000000000
+      internalID: 7770988276129527070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_130
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 55
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d8f211c51d885d0800000000000000
+      internalID: -3059965753442726571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_131
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 223
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a87ee48b03881a0800000000000000
+      internalID: -6807137268614591933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_132
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 223
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc2884666e18570800000000000000
+      internalID: 8467302101410827350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_133
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 263
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fce7cfc753b1350800000000000000
+      internalID: 5988438940447592244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_134
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 255
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c5cf6637669eeb0800000000000000
+      internalID: -4690104891094574039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_135
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 191
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7001db1e325bf6610800000000000000
+      internalID: 1616709956965044231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_136
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 263
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84126ec9ff6d1f940800000000000000
+      internalID: 5328276227493339464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_137
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 255
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b26fd4de3a3e470800000000000000
+      internalID: 8422755967723514747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_138
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 203
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d59bc1ea5ef75510800000000000000
+      internalID: 1537977464059041236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_139
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 203
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ada3cf8f8d9cf0800000000000000
+      internalID: -243880957182107334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_140
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 203
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2d2c8bb28e7ed0800000000000000
+      internalID: -2414348608201741280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_141
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 203
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2b20aa93708f630800000000000000
+      internalID: 3960923816519185110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 62
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04b8461cf939b670800000000000000
+      internalID: 8554932722035373068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 62
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1911a4eb6ebb9d280800000000000000
+      internalID: -9017970179123310191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_144
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310fed5d47b2c0190800000000000000
+      internalID: -7994967457685114861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_145
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 21
+        width: 62
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709f2f13e75dc9740800000000000000
+      internalID: 5160234011040348423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_146
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 62
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc25b5b068401250800000000000000
+      internalID: 5913305890940071101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_147
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 72
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a76319beca59b1d0800000000000000
+      internalID: -3334534205176322142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_148
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 143
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd538a370c41fc90800000000000000
+      internalID: -7137840340475355717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_149
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 223
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01deec8dd2db0f870800000000000000
+      internalID: 8714673283570527504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_150
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 191
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161d3d4fe3440ea0800000000000000
+      internalID: -5907522116131154410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_151
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 223
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab211b88a7301ac00800000000000000
+      internalID: 910012424519750330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_152
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 142
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a25585b8689690800000000000000
+      internalID: -7595205642725185985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_153
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 159
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0379b2d78bbe966d0800000000000000
+      internalID: -2996604899431835856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_154
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 159
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48817899fae1e98f0800000000000000
+      internalID: -531953966439262076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_155
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 127
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef61a00b2f36e68b0800000000000000
+      internalID: -5157074629305952514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_156
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 127
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a0850750b6f59c0800000000000000
+      internalID: -3936309878194697709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_157
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 73
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa87eef016b7eea80800000000000000
+      internalID: -8435669395209029457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_158
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 73
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9e484e8792977a0800000000000000
+      internalID: -6379021797986866749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_159
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 47
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e873135aedf9d640800000000000000
+      internalID: 5105390835459127524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_160
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 46
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7203e092daf96a150800000000000000
+      internalID: 5883565529273085991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_161
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 55
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b8852c66155a260800000000000000
+      internalID: 7108177088663292793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_162
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 80
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be459c26897bcb0800000000000000
+      internalID: -4848238923789046959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_163
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 80
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1762c08070c1095b0800000000000000
+      internalID: -5363756339672897935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_outside_164
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 31
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd90182ab6294f550800000000000000
+      internalID: 6193736378526796251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      castle_outside_0: -3870541607752106652
+      castle_outside_1: 1654866658920375979
+      castle_outside_10: -4389337805405037092
+      castle_outside_100: -277441977196146649
+      castle_outside_101: 7492319057522909249
+      castle_outside_102: 2922698344340538771
+      castle_outside_103: 3524415116185226316
+      castle_outside_104: -2554847139344797222
+      castle_outside_105: 547662344310492018
+      castle_outside_106: -8705865913764721923
+      castle_outside_107: 7303339935468327179
+      castle_outside_108: 5889825793662759964
+      castle_outside_109: -8907137695577756556
+      castle_outside_11: -6605649985525735650
+      castle_outside_110: 7869281779280349176
+      castle_outside_111: 2170788919691874195
+      castle_outside_112: -2128673518125398862
+      castle_outside_113: 8214706519711244239
+      castle_outside_114: -6993389182531606610
+      castle_outside_115: 8303023654697554337
+      castle_outside_116: -3872309436802616550
+      castle_outside_117: -3346640827953555499
+      castle_outside_118: 279156682485250078
+      castle_outside_119: 1788946484433862889
+      castle_outside_12: 812484585267569778
+      castle_outside_120: -3823384931086232281
+      castle_outside_121: 1971632911066673128
+      castle_outside_122: 6084546290706389105
+      castle_outside_123: -6693335473299370896
+      castle_outside_124: 6838341418401625534
+      castle_outside_125: 6183554462897062061
+      castle_outside_126: -3691311761419711250
+      castle_outside_127: 328006398795739990
+      castle_outside_128: 5409351469316849077
+      castle_outside_129: 7770988276129527070
+      castle_outside_13: -7744659798794835818
+      castle_outside_130: -3059965753442726571
+      castle_outside_131: -6807137268614591933
+      castle_outside_132: 8467302101410827350
+      castle_outside_133: 5988438940447592244
+      castle_outside_134: -4690104891094574039
+      castle_outside_135: 1616709956965044231
+      castle_outside_136: 5328276227493339464
+      castle_outside_137: 8422755967723514747
+      castle_outside_138: 1537977464059041236
+      castle_outside_139: -243880957182107334
+      castle_outside_14: -4202466544367086558
+      castle_outside_140: -2414348608201741280
+      castle_outside_141: 3960923816519185110
+      castle_outside_142: 8554932722035373068
+      castle_outside_143: -9017970179123310191
+      castle_outside_144: -7994967457685114861
+      castle_outside_145: 5160234011040348423
+      castle_outside_146: 5913305890940071101
+      castle_outside_147: -3334534205176322142
+      castle_outside_148: -7137840340475355717
+      castle_outside_149: 8714673283570527504
+      castle_outside_15: 5659192503193901035
+      castle_outside_150: -5907522116131154410
+      castle_outside_151: 910012424519750330
+      castle_outside_152: -7595205642725185985
+      castle_outside_153: -2996604899431835856
+      castle_outside_154: -531953966439262076
+      castle_outside_155: -5157074629305952514
+      castle_outside_156: -3936309878194697709
+      castle_outside_157: -8435669395209029457
+      castle_outside_158: -6379021797986866749
+      castle_outside_159: 5105390835459127524
+      castle_outside_16: -8494589796256885253
+      castle_outside_160: 5883565529273085991
+      castle_outside_161: 7108177088663292793
+      castle_outside_162: -4848238923789046959
+      castle_outside_163: -5363756339672897935
+      castle_outside_164: 6193736378526796251
+      castle_outside_17: -3322459782317223669
+      castle_outside_18: 7734526043016080645
+      castle_outside_19: 6473086960062693073
+      castle_outside_2: -2320876174936515625
+      castle_outside_20: 6741792951286309473
+      castle_outside_21: -8229716691002726288
+      castle_outside_22: 7380785303273303107
+      castle_outside_23: -5292513134675735442
+      castle_outside_24: 378578671598447662
+      castle_outside_25: -2059768480923195077
+      castle_outside_26: 5584449715376911899
+      castle_outside_27: -3471549932348110067
+      castle_outside_28: -7389647002697411065
+      castle_outside_29: -6767077494734939440
+      castle_outside_3: 5146665774415463349
+      castle_outside_30: -4445896458865142643
+      castle_outside_31: -521261762088221295
+      castle_outside_32: -3360976140070214547
+      castle_outside_33: -7367843654904288650
+      castle_outside_34: -2039730447917587819
+      castle_outside_35: -2346284516614906551
+      castle_outside_36: 4901369586641637941
+      castle_outside_37: 3242897049389365646
+      castle_outside_38: 8663348982961565035
+      castle_outside_39: 2956250227483331804
+      castle_outside_4: 4345215914722311914
+      castle_outside_40: -8026179050959949870
+      castle_outside_41: 1666976132309624123
+      castle_outside_42: 3734242934565290741
+      castle_outside_43: 6221779279459304188
+      castle_outside_44: -3165832450854427145
+      castle_outside_45: -4552364083868126721
+      castle_outside_46: 5679455421745222869
+      castle_outside_47: 3500295390510091212
+      castle_outside_48: 6765191605622930133
+      castle_outside_49: -389422692293707730
+      castle_outside_5: -2649906264757372066
+      castle_outside_50: -7804326720630336775
+      castle_outside_51: -50363381938222687
+      castle_outside_52: -3414697630355694794
+      castle_outside_53: -456041715261412710
+      castle_outside_54: -2429062535450399326
+      castle_outside_55: 2473733531876815394
+      castle_outside_56: -1412694275290320159
+      castle_outside_57: 9202315122173932054
+      castle_outside_58: -8389457047601137120
+      castle_outside_59: 8961121190973202629
+      castle_outside_6: -384321367377677879
+      castle_outside_60: -1332012102749613354
+      castle_outside_61: -5220096427364356929
+      castle_outside_62: 3351030172581186621
+      castle_outside_63: -6418859710132001142
+      castle_outside_64: -6716918864287758685
+      castle_outside_65: -6248111152868506702
+      castle_outside_66: -7287828179053988296
+      castle_outside_67: 3420982290842143406
+      castle_outside_68: 6418567181174800513
+      castle_outside_69: 4520725691684142692
+      castle_outside_7: -7384281959855886462
+      castle_outside_70: -2412932033228619156
+      castle_outside_71: -9069808209199761182
+      castle_outside_72: -1376125129741066460
+      castle_outside_73: -3749216619772631343
+      castle_outside_74: 4901785036534533757
+      castle_outside_75: 3397906442177763738
+      castle_outside_76: -4727037572942607
+      castle_outside_77: 2871036127917593782
+      castle_outside_78: 2525297419731822087
+      castle_outside_79: 5448338458654996811
+      castle_outside_8: 7764151759619686614
+      castle_outside_80: -1839939748697053537
+      castle_outside_81: -8438063093139728064
+      castle_outside_82: 7078446689939308896
+      castle_outside_83: -8939640762689829127
+      castle_outside_84: 857567898653670466
+      castle_outside_85: -5245585037596449138
+      castle_outside_86: -3930339405321436007
+      castle_outside_87: 149053713693182763
+      castle_outside_88: -7532763841114264907
+      castle_outside_89: 4987704230983348598
+      castle_outside_9: -6453590521119392604
+      castle_outside_90: -9037542338721930479
+      castle_outside_91: 5679388244325280228
+      castle_outside_92: 8632115371426845575
+      castle_outside_93: 1744753086336793434
+      castle_outside_94: -3394781708286105422
+      castle_outside_95: -3143939965754770238
+      castle_outside_96: 8055315685766443432
+      castle_outside_97: 391798796742507868
+      castle_outside_98: -8416760879915287027
+      castle_outside_99: -3581735780783981396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
